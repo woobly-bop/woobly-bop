@@ -43,7 +43,7 @@
 
 #### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,canva,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,mysql" /> <img src
 </p>
 
 ---
