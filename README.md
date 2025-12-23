@@ -68,7 +68,7 @@ Building practical systems at the intersection of <b>web, backend, and machine i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woobly-bop&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=tokyonight" />
 </p>
 
 ---
