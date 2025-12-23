@@ -11,7 +11,7 @@ Aspiring software engineer focused on building <b>real-world, production-ready s
 
 <p align="center">
 🎓 3rd-year <b>Computer Science & Engineering</b> student<br/>
-💻 Interested in <b>Software Development, Backend Systems & AI</b><br/>
+💻 Interested in <b>Software Development & AI</b><br/>
 🚀 Hands-on with <b>Next.js, FastAPI, REST APIs & ML pipelines</b><br/>
 🧠 Strong foundation in <b>DSA, databases, and system logic</b><br/>
 ⚡ Actively seeking <b>Software / AI / Full-Stack Internship roles</b>
@@ -45,7 +45,7 @@ Aspiring software engineer focused on building <b>real-world, production-ready s
 
 ## 🧩 Core Strengths
 - Data Structures & Algorithms  
-- Backend & API Design  
+- Full-Stack Development 
 - Database Modeling  
 - Problem Solving & Debugging  
 
