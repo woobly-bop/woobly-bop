@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE | Full-Stack Developer | AI & ML Explorer</h3>
 
 <p align="center">
-Building practical systems at the intersection of <b>web, backend, and machine intelligence</b>.
+Aspiring software engineer focused on building <b>real-world, production-ready systems</b>.
 </p>
 
 ---
@@ -11,10 +11,10 @@ Building practical systems at the intersection of <b>web, backend, and machine i
 
 <p align="center">
 🎓 3rd-year <b>Computer Science & Engineering</b> student<br/>
-💻 Interested in <b>Full-Stack Development & AI-powered systems</b><br/>
-🚀 Working with <b>Next.js, FastAPI, and ML pipelines</b><br/>
-🧠 Strong in <b>problem-solving, system thinking, and clean APIs</b><br/>
-⚡ I enjoy turning ideas into <b>usable, real-world products</b>
+💻 Interested in <b>Software Development, Backend Systems & AI</b><br/>
+🚀 Hands-on with <b>Next.js, FastAPI, REST APIs & ML pipelines</b><br/>
+🧠 Strong foundation in <b>DSA, databases, and system logic</b><br/>
+⚡ Actively seeking <b>Software / AI / Full-Stack Internship roles</b>
 </p>
 
 ---
@@ -28,27 +28,26 @@ Building practical systems at the intersection of <b>web, backend, and machine i
 
 ### Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,nodejs" />
 </p>
 
 ### AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
 </p>
-- Classical ML • NLP • Neural Networks  
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
 ## 🧩 Core Strengths
 - Data Structures & Algorithms  
-- API Design & Backend Logic  
-- Relational Database Design  
-- Team Collaboration & Documentation  
+- Backend & API Design  
+- Database Modeling  
+- Problem Solving & Debugging  
 
 ---
 
@@ -67,13 +66,12 @@ Building practical systems at the intersection of <b>web, backend, and machine i
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 ---
 
-⭐️ Thanks for stopping by!
+⭐️ Open to internship opportunities — feel free to connect!
