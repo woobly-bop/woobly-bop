@@ -58,7 +58,8 @@ Building practical systems at the intersection of <b>web, backend, and machine i
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
   <a href="mailto:imdeepkirankaur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=tokyonight&hide_border=true" />
+
   </a>
 </p>
 
