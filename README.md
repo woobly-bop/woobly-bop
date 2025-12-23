@@ -68,7 +68,7 @@ Aspiring software engineer focused on building <b>real-world, production-ready s
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=transparent&hide_border=true" />
   
 </p>
 
