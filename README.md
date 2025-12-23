@@ -68,8 +68,8 @@ Aspiring software engineer focused on building <b>real-world, production-ready s
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="[![Deepkiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=woobly-bop)](https://github.com/woobly-bop/github-readme-stats)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=dracula&hide_border=true" />
+  
 </p>
 
 ---
