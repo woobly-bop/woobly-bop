@@ -7,12 +7,15 @@ Building practical systems at the intersection of <b>web, backend, and machine i
 
 ---
 
-## ✨ About Me
-- 🎓 3rd-year **Computer Science & Engineering** student  
-- 💻 Interested in **Full-Stack Development & AI-powered systems**  
-- 🚀 Currently working with **Next.js, FastAPI, and ML pipelines**  
-- 🧠 Strong in **problem-solving, system thinking, and clean APIs**  
-- ⚡ I enjoy turning ideas into **usable, real-world products**
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+🎓 3rd-year <b>Computer Science & Engineering</b> student<br/>
+💻 Interested in <b>Full-Stack Development & AI-powered systems</b><br/>
+🚀 Working with <b>Next.js, FastAPI, and ML pipelines</b><br/>
+🧠 Strong in <b>problem-solving, system thinking, and clean APIs</b><br/>
+⚡ I enjoy turning ideas into <b>usable, real-world products</b>
+</p>
 
 ---
 
@@ -44,7 +47,7 @@ Building practical systems at the intersection of <b>web, backend, and machine i
 ## 🧩 Core Strengths
 - Data Structures & Algorithms  
 - API Design & Backend Logic  
-- Database Design (Relational)  
+- Relational Database Design  
 - Team Collaboration & Documentation  
 
 ---
@@ -58,8 +61,7 @@ Building practical systems at the intersection of <b>web, backend, and machine i
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
   <a href="mailto:imdeepkirankaur@gmail.com">
-    <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=tokyonight&hide_border=true" />
-
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -69,7 +71,7 @@ Building practical systems at the intersection of <b>web, backend, and machine i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
