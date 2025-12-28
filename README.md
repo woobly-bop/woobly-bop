@@ -6,9 +6,9 @@
 
 # About Me:
 - B.Tech Computer Science & Engineering student  
-- Software Engineer Intern at **Aajahi Logistics**, working on production-level applications  
-- Hands-on experience with **Machine Learning projects** (end-to-end pipeline)  
-- Currently working on a **research paper in the ML domain**  
+- Software Engineer Intern at **Awajahi Logistics**, working on production-level applications  
+- Hands-on experience with **Machine Learning projects**   
+- Currently working on a **Research Paper in the ML domain**  
 - Strong problem-solver who enjoys clean, scalable code  
 - Curious about systems, AI, and data-driven technologies  
 
