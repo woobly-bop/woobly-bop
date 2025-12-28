@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#8b5cf6;">Deep Kiran Kaur</span>
+  Deep Kiran Kaur
 </h1>
 
 <p align="center">
@@ -18,14 +18,14 @@ I enjoy solving problems, exploring Machine Learning and GenAI, and continuously
 
 ### Programming & ML Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow" />
 </p>
 
 ### Machine Learning
-- Supervised & Unsupervised Learning  Model Evaluation  Feature Engineering  Hyperparameter Tuning  Training Pipelines  
+Supervised Learning • Unsupervised Learning • Model Evaluation • Feature Engineering • Hyperparameter Tuning • Training Pipelines
 
 ### NLP & GenAI
-- Text Preprocessing  Semantic Search  Sentence-BERT (SBERT)  LLaMA  Retrieval-Augmented Generation (RAG)  
+Text Preprocessing • Semantic Search • Sentence-BERT (SBERT) • LLaMA • Retrieval-Augmented Generation (RAG)
 
 ### APIs & Tools
 <p>
@@ -33,9 +33,9 @@ I enjoy solving problems, exploring Machine Learning and GenAI, and continuously
 </p>
 
 ### Core Competencies
-- Data Structures & Algorithms  Object-Oriented Programming  Relational Database Management  
+Data Structures & Algorithms • Object-Oriented Programming • Relational Database Management
 
-### 🗄️ Databases & Systems
+### Databases & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,aws" />
 </p>
