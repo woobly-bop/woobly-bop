@@ -1,77 +1,63 @@
-<h1 align="center">404: Bugs Not Found(yet)- Deep Kiran Kaur 👋 </h1>
-<h3 align="center">B.Tech CSE | Full-Stack Developer | AI & ML Explorer</h3>
+<h1 align="center">
+  Hey 👋, I'm <span style="color:#a78bfa;">Deep Kiran Kaur</span>
+</h1>
+
+<h3 align="center">
+  <em>Computer Science Undergraduate • Full-Stack Developer • AI Curious</em>
+</h3>
 
 <p align="center">
-Aspiring software engineer focused on building <b>real-world, production-ready systems</b>.
+  Building clean UIs, scalable backends, and experimenting with AI-powered ideas ✨  
 </p>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
-
-<p align="center">
-🎓 3rd-year <b>Computer Science & Engineering</b> student<br/>
-💻 Interested in <b>Software Development & AI</b><br/>
-🚀 Hands-on with <b>Next.js, FastAPI, REST APIs & ML pipelines</b><br/>
-🧠 Strong foundation in <b>DSA, databases, and system logic</b><br/>
-⚡ Actively seeking <b>Software / AI / Full-Stack Internship roles</b>
-</p>
-
----
-
-## 🧠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,html,css,mysql" />
-</p>
-
-### Frameworks & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,nodejs" />
-</p>
-
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" />
+</div>
 
 ---
 
-## 🧩 Core Strengths
-- Data Structures & Algorithms  
-- Full-Stack Development 
-- Database Modeling  
-- Problem Solving & Debugging  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="26" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="26" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="26" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="26" />
+</div>
 
 ---
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/imdeepkiran">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/woobly-bop">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:imdeepkirankaur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&border_radius=6" height="160" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&border_radius=6&mode=weekly" height="160" />
+</div>
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-</p>
-
----
-
-⭐️ Open to internship opportunities — feel free to connect!
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
