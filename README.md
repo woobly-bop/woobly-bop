@@ -7,6 +7,8 @@
 </p>
 
 ---
+## About me
+
 
 ## 💡 Skills & Expertise
 
@@ -20,22 +22,10 @@
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- Supervised & Unsupervised Learning  
-- Model Evaluation  
-- Feature Engineering  
-- Hyperparameter Tuning  
-- Training Pipelines  
+- Supervised & Unsupervised Learning  - Model Evaluation  - Feature Engineering  - Hyperparameter Tuning  - Training Pipelines  
 
 ### 🗣️ NLP & GenAI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Text Preprocessing  
-- Semantic Search  
-- Sentence-BERT (SBERT)  
-- LLaMA  
-- Retrieval-Augmented Generation (RAG)  
+- Text Preprocessing  - Semantic Search  - Sentence-BERT (SBERT)  - LLaMA  - Retrieval-Augmented Generation (RAG)  
 
 ### 🔧 APIs & Tools
 <p>
@@ -43,23 +33,11 @@
 </p>
 
 ### 🧩 Core Competencies
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
-</p>
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
+- Data Structures & Algorithms  - Object-Oriented Programming - Relational Database Management 
 
 ### 🗄️ Databases & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,aws" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=dracula" />
 </p>
 
 ---
