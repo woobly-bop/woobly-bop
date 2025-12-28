@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  B.Tech CSE Student • Machine Learning & GenAI Enthusiast • Full-Stack Developer
+  B.Tech CSE Student • Machine Learning & GenAI Enthusiast • Learning Software Engineer
 </p>
 
 ---
@@ -32,20 +32,10 @@ I enjoy solving problems, exploring Machine Learning and GenAI, and continuously
   <img src="https://skillicons.dev/icons?i=git,fastapi,numpy,pandas,streamlit" />
 </p>
 
-### Machine Learning
-- Learning paradigms (Supervised, Unsupervised)
-- Feature engineering & evaluation
-- Hyperparameter tuning & pipelines
-
-### NLP & GenAI
-- Text preprocessing & semantic search
-- SBERT, LLaMA
-- Retrieval-Augmented Generation (RAG)
-
-### Core Competencies
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Relational Databases
+### Machine Learning                                NLP & GenAI                              Core Competencies
+- Learning paradigms (Supervised, Unsupervised)     Text preprocessing & semantic search     Data Structures & Algorithms
+- Feature engineering & evaluation                  SBERT, LLaMA                             Object-oriented Programming
+- Hyperparameter tuning & pipelines                 Retrieval-Augmented Generation (RAG)     Relational Databases                
 
 
 ---
