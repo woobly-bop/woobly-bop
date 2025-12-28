@@ -42,13 +42,13 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&border_radius=6" height="160" />
+  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=dracula&border_radius=6" height="160" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&border_radius=6&mode=weekly" height="160" />
+  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=dracula&border_radius=6&mode=weekly" height="160" />
 </div>
 
 ---
