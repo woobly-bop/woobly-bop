@@ -33,13 +33,20 @@ I enjoy solving problems, exploring Machine Learning and GenAI, and continuously
 </p>
 
 ### Machine Learning
-Supervised Learning • Unsupervised Learning • Model Evaluation • Feature Engineering • Hyperparameter Tuning • Training Pipelines
+- Learning paradigms (Supervised, Unsupervised)
+- Feature engineering & evaluation
+- Hyperparameter tuning & pipelines
 
 ### NLP & GenAI
-Text Preprocessing • Semantic Search • Sentence-BERT (SBERT) • LLaMA • Retrieval-Augmented Generation (RAG)
+- Text preprocessing & semantic search
+- SBERT, LLaMA
+- Retrieval-Augmented Generation (RAG)
 
 ### Core Competencies
-Data Structures & Algorithms • Object-Oriented Programming • Relational Database Management
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Relational Databases
+
 
 ---
 
@@ -54,7 +61,11 @@ Data Structures & Algorithms • Object-Oriented Programming • Relational Data
   <a href="https://www.instagram.com/imdeepkiran" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:imdeepkirankaur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
