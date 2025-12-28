@@ -12,7 +12,7 @@
 - Strong problem-solver who enjoys clean, scalable code  
 - Curious about systems, AI, and data-driven technologies  
 
-## **Fun fact:** I do graphic designing (for fun 🎨)
+**Fun fact: I do graphic designing (for fun 🎨)**
 
 
 ---
