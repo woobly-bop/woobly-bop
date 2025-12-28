@@ -32,11 +32,10 @@ I enjoy solving problems, exploring Machine Learning and GenAI, and continuously
   <img src="https://skillicons.dev/icons?i=git,fastapi,numpy,pandas,streamlit" />
 </p>
 
-### Machine Learning                                NLP & GenAI                              Core Competencies
-- Learning paradigms (Supervised, Unsupervised)     Text preprocessing & semantic search     Data Structures & Algorithms
-- Feature engineering & evaluation                  SBERT, LLaMA                             Object-oriented Programming
-- Hyperparameter tuning & pipelines                 Retrieval-Augmented Generation (RAG)     Relational Databases                
-
+### Core Competencies
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Relational Databases
 
 ---
 
