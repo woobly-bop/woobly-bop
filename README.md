@@ -1,63 +1,37 @@
-<h1 align="center">
-  Hey 👋, I'm <span style="color:#a78bfa;">Deep Kiran Kaur</span>
-</h1>
+# Hi 👋, I'm Deep Kiran Kaur
 
-<h3 align="center">
-  <em>Computer Science Undergraduate • Full-Stack Developer • AI Curious</em>
-</h3>
+🎓 B.Tech CSE Student  
+💻 Full-Stack Developer | Exploring AI & ML  
+🚀 Building projects with clean UI and scalable logic
 
-<p align="center">
-  Building clean UIs, scalable backends, and experimenting with AI-powered ideas ✨  
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,python,aws" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
-</div>
+## 🔥 GitHub Streak
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="26" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="26" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="26" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="26" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=dracula&border_radius=6" height="160" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=woobly-bop&theme=dracula&border_radius=6&mode=weekly" height="160" />
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+## 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
