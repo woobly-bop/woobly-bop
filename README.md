@@ -7,8 +7,12 @@
 </p>
 
 ---
-## About me
 
+## About Me
+I am a B.Tech Computer Science and Engineering student who is passionate about learning, building, and coding.  
+I enjoy solving problems, exploring Machine Learning and GenAI, and continuously improving my technical skills through hands-on projects.
+
+---
 
 ## 💡 Skills & Expertise
 
@@ -22,10 +26,18 @@
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- Supervised & Unsupervised Learning  - Model Evaluation  - Feature Engineering  - Hyperparameter Tuning  - Training Pipelines  
+- Supervised & Unsupervised Learning  
+- Model Evaluation  
+- Feature Engineering  
+- Hyperparameter Tuning  
+- Training Pipelines  
 
 ### 🗣️ NLP & GenAI
-- Text Preprocessing  - Semantic Search  - Sentence-BERT (SBERT)  - LLaMA  - Retrieval-Augmented Generation (RAG)  
+- Text Preprocessing  
+- Semantic Search  
+- Sentence-BERT (SBERT)  
+- LLaMA  
+- Retrieval-Augmented Generation (RAG)  
 
 ### 🔧 APIs & Tools
 <p>
@@ -33,7 +45,9 @@
 </p>
 
 ### 🧩 Core Competencies
-- Data Structures & Algorithms  - Object-Oriented Programming - Relational Database Management 
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Relational Database Management  
 
 ### 🗄️ Databases & Systems
 <p>
@@ -53,4 +67,10 @@
   <a href="https://www.instagram.com/imdeepkiran" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“It’s not over until I win.”</em>
 </p>
