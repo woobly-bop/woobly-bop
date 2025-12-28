@@ -1,4 +1,6 @@
-# Hi 👋, I'm Deep Kiran Kaur
+<p align="center">
+        # Hi 👋, I'm Deep Kiran Kaur
+</p>
 
 <p align="center">
   B.Tech CSE Student • Machine Learning & GenAI Enthusiast • Full-Stack Developer
