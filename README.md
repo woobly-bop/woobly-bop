@@ -1,6 +1,4 @@
-<h1 align="center">
-  Deep Kiran Kaur
-</h1>
+# Hi 👋, I'm Deep Kiran Kaur
 
 <p align="center">
   B.Tech CSE Student • Machine Learning & GenAI Enthusiast • Full-Stack Developer
@@ -21,24 +19,24 @@ I enjoy solving problems, exploring Machine Learning and GenAI, and continuously
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow" />
 </p>
 
-### Machine Learning
-Supervised Learning • Unsupervised Learning • Model Evaluation • Feature Engineering • Hyperparameter Tuning • Training Pipelines
-
-### NLP & GenAI
-Text Preprocessing • Semantic Search • Sentence-BERT (SBERT) • LLaMA • Retrieval-Augmented Generation (RAG)
+### Databases & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,aws" />
+</p>
 
 ### APIs & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,fastapi,numpy,pandas,streamlit" />
 </p>
 
+### Machine Learning
+Supervised Learning • Unsupervised Learning • Model Evaluation • Feature Engineering • Hyperparameter Tuning • Training Pipelines
+
+### NLP & GenAI
+Text Preprocessing • Semantic Search • Sentence-BERT (SBERT) • LLaMA • Retrieval-Augmented Generation (RAG)
+
 ### Core Competencies
 Data Structures & Algorithms • Object-Oriented Programming • Relational Database Management
-
-### Databases & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,aws" />
-</p>
 
 ---
 
