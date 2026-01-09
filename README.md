@@ -74,6 +74,9 @@
 
 ## Socials:
 <p align="center">
+   <a href="mailto:imdeepkirankaur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
   <a href="https://instagram.com/imdeepkiran">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
@@ -82,9 +85,6 @@
   </a>
   <a href="https://x.com/imdeepkirankaur">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-  </a>
-  <a href="mailto:imdeepkirankaur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
