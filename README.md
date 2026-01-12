@@ -2,7 +2,7 @@
   Hi 👋, I'm Deep Kiran Kaur
 </h1>
 
----
+
 
 # About Me:
 - B.Tech Computer Science & Engineering student  
@@ -72,7 +72,7 @@
 
 ---
 
-## Socials:
+## Socials
 <p align="center">
    <a href="mailto:imdeepkirankaur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
