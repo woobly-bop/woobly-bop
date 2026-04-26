@@ -23,9 +23,9 @@
 
 ## About Me
 
-A B.Tech Computer Science student who treats code like a craft and curiosity like a compass. I work across **Machine Learning** and **Full Stack Development** — turning data into insight on one side, and ideas into shipped products on the other. Authored a research paper in ML and built a few projects along the way.
+A B.Tech Computer Science student who treats code like a craft and curiosity like a compass. I work across **Machine Learning** and **Full Stack Development** turning data into insight on one side, and ideas into shipped products on the other. Authored a research paper in ML and built a few projects along the way.
 
-#### Where you'll find me
+#### Currently
 
 > **Software Engineer Intern** — Awajahi Logistics  
 > **Career Preview Program Intern** — HPE  
@@ -33,7 +33,7 @@ A B.Tech Computer Science student who treats code like a craft and curiosity lik
 
 #### Off the clock
 
-Graphic designing is my creative reset button. No briefs, no deadlines — just whatever idea is loud that day.
+Graphic designing is my creative reset button. No briefs, no deadlines just whatever idea is loud that day.
 
 ---
 
