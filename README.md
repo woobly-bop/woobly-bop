@@ -88,13 +88,6 @@ Graphic designing is my creative reset button. No briefs, no deadlines just what
 ## GitHub Statistics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=woobly-bop&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF6EC7&icon_color=FF6EC7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woobly-bop&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6EC7" />
-  
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=woobly-bop&theme=radical&hide_border=true&stroke=FF6EC7&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" alt="GitHub Streak" />
 </div>
 
