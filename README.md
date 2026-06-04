@@ -13,7 +13,6 @@
 <!-- Profile Views & Followers -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=woobly-bop&label=Profile%20Views&color=ff6ec7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/woobly-bop?label=Followers&style=for-the-badge&color=ff6ec7" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Focus: Full Stack Developement-ff6ec7?style=for-the-badge" alt="Focus" />
 </div>
 
