@@ -95,16 +95,6 @@ Graphic designing is my creative reset button. No briefs, no deadlines just what
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woobly-bop&theme=radical" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woobly-bop&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woobly-bop&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=woobly-bop&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woobly-bop&theme=radical&utcOffset=5.5" />
-</div>
-
 ---
 
 ## Contribution Graph
